@@ -1,3 +1,9 @@
 [submodule "Order"]
 	path = Order
 	url = git@github.com:BharathiParamasivam12/Order.git
+[submodule "user"]
+	path = user
+	url = git@github.com:BharathiParamasivam12/user.git
+[submodule "Category"]
+	path = Category
+	url = git@github.com:BharathiParamasivam12/Category.git
